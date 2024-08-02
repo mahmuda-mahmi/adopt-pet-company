@@ -1,0 +1,12 @@
+.sidebar{
+    width: 25%;
+    
+}
+
+.sidebar div{
+    background: #ffff;
+    border-radius: 15px;
+    position: sticky;
+    top: 100px;
+    padding: 20px;
+}
